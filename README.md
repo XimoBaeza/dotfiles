@@ -8,5 +8,7 @@ At the end of the script it installs the NvChad configuration for nvim, and you 
 
 ## Some screenshots
 
-
+![image](https://github.com/XimoBaeza/dotfiles/blob/main/assets/shell.png)
+![image](https://github.com/XimoBaeza/dotfiles/blob/main/assets/nvim.png)
+![image](https://github.com/XimoBaeza/dotfiles/blob/main/assets/widgets.png)
 
