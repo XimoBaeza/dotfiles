@@ -6,7 +6,7 @@ The script will ask which aurhelper you want to install (yay or paru) and then i
 
 At the end of the script it installs the NvChad configuration for nvim, and you have to press :q twice to exit, and from there you can enjoy this environment. We will only need to restart and select awesome in gdm.
 
-If you run it in a virtual machine you will have to execute the following command for everything to work well `sed -i 's/glx/xrender/' ~/.config/awesome/theme/picom.conf``
+If you run it in a virtual machine you will have to execute the following command for everything to work well `sed -i 's/glx/xrender/' ~/.config/awesome/theme/picom.conf`
 
 ## Screenshots
 
