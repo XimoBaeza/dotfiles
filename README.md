@@ -1,6 +1,6 @@
 # Dotfiles
 
-This project is a repository of my configuration files based on the ones from rxyhn (https://github.com/rxyhn) and a bash script for installation based on the one from Keyitdev (https://github.com/Keyitdev) both with some modifications.
+This project is a repository of my configuration files based on [rxyhn](https://github.com/rxyhn) dotfiles and a bash script for installation based on [Keyitdev](https://github.com/Keyitdev) script both with some modifications.
 
 The script `install_on_arch.sh` will ask which aurhelper you want to install (yay or paru) and then it will show a menu where you can choose if you want to run all the functions or uncheck with the space bar the ones you don't want.
 
@@ -23,8 +23,8 @@ If you run it in a virtual machine you will have to execute the following comman
 - **Compositor:** [picom](https://github.com/yshui/picom)
 - **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
 
-### Keybinds
-#### Applications
+## Keybinds
+### Applications
 
 | Keybind | Action |
 | ------- | ------ |
@@ -33,8 +33,10 @@ If you run it in a virtual machine you will have to execute the following comman
 | <kbd>super + w</kbd> | Open web browser  |
 | <kbd>super + x</kbd> | Open color picker |
 | <kbd>super + f</kbd> | Open file manager |
+| <kbd>impr pant</kbd> | Fullscreen screenshot |
+| <kbd>alt + impr pant</kbd> | Select area for screenshot |
 
-#### Hotkeys
+### Hotkeys
 
 | Keybind | Action |
 | ------- | ------ |
@@ -45,8 +47,7 @@ If you run it in a virtual machine you will have to execute the following comman
 | <kbd>super + ctrl + l</kbd> | Show lock screen |
 | <kbd>alt + tab</kbd> | Toggle window switcher |
 
-
-#### Layout
+### Layout
 
 | Keybind | Action |
 | ------- | ------ |
@@ -54,7 +55,7 @@ If you run it in a virtual machine you will have to execute the following comman
 | <kbd>super + s</kbd> | Set tiling layout |
 | <kbd>super + shift + s</kbd> | Set floating layout |
 
-#### WM
+### WM
 
 | Keybind | Action |
 | ------- | ------ |
