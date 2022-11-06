@@ -10,6 +10,7 @@ If you run it in a virtual machine you will have to execute the following comman
 
 ## Screenshots
 
+![image](https://github.com/XimoBaeza/dotfiles/blob/main/assets/desktop.png)
 ![image](https://github.com/XimoBaeza/dotfiles/blob/main/assets/shell.png)
 ![image](https://github.com/XimoBaeza/dotfiles/blob/main/assets/nvim.png)
 ![image](https://github.com/XimoBaeza/dotfiles/blob/main/assets/widgets.png)
